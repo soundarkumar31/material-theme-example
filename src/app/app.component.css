@@ -13,3 +13,13 @@ p {
 .c-titile {
   color: #555;
 }
+
+mat-form-field {
+  width: 100%;
+}
+.fstudent {
+  width: 40%;
+}
+button {
+  margin: 5px;
+}
